@@ -16,7 +16,7 @@ public class Participante {
     public void setNombre (String nombre){
         this.nombre = nombre;
     }
-    // sdsdsdfdsasdfdsasdf
+
 
     public int getIdentificador(){
         return identificador;
