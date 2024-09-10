@@ -1,0 +1,45 @@
+2024-07-16   Mundial   {Participantes: 256, Ganador final: Azerbaiyán}
+2024-07-16   Mundial   {Participantes: 256, Ganador final: Pedro(amigo)}
+2024-07-16   Mundial   {Participantes: 256, Ganador final: Australia}
+2024-07-16   Mundial   {Participantes: 256, Ganador final: Namibia}
+2024-07-16   Eurocopa   {Participantes: 64, Ganador final: Dinamarca}
+2024-07-16   Eurocopa   {Participantes: 64, Ganador final: Grecia}
+2024-07-16   Eurocopa   {Participantes: 64, Ganador final: Bosnia y Herzegovina}
+2024-07-16   Eurocopa   {Participantes: 64, Ganador final: Italia}
+2024-07-17   Eurocopa   {Participantes: 32, Ganador final: Inglaterra}
+2024-07-17   Eurocopa   {Participantes: 32, Ganador final: Inglaterra}
+2024-07-17   Eurocopa   {Participantes: 32, Ganador final: Hungría}
+2024-07-17   Eurocopa   {Participantes: 32, Ganador final: Suiza}
+2024-07-17   Eurocopa   {Participantes: 32, Ganador final: Macedonia del Norte}
+2024-07-17   Eurocopa   {Participantes: 32, Ganador final: Paises Bajos}
+2024-07-17   Eurocopa   {Participantes: 32, Ganador final: Escocia}
+2024-07-17   Eurocopa   {Participantes: 32, Ganador final: Francia}
+2024-07-17   Eurocopa   {Participantes: 32, Ganador final: Inglaterra}
+2024-07-17   Eurocopa   {Participantes: 32, Ganador final: Alemania}
+2024-07-17   Eurocopa   {Participantes: 32, Ganador final: Eslovaquia}
+2024-07-17   Eurocopa   {Participantes: 32, Ganador final: España}
+2024-07-17   Eurocopa   {Participantes: 32, Ganador final: Ucrania}
+2024-07-17   Eurocopa   {Participantes: 32, Ganador final: Hungría}
+2024-07-17   Mundial   {Participantes: 256, Ganador final: Islas Marshall}
+2024-07-17   Eurocopa   {Participantes: 32, Ganador final: Bielorrusia}
+2024-07-17   Eurocopa   {Participantes: 32, Ganador final: Macedonia del Norte}
+2024-07-17   Eurocopa   {Participantes: 32, Ganador final: Gales}
+2024-07-17   Eurocopa   {Participantes: 32, Ganador final: Rumanía}
+2024-07-17   Eurocopa   {Participantes: 32, Ganador final: España}
+2024-07-17   Eurocopa   {Participantes: 32, Ganador final: Hungría}
+2024-07-17   Eurocopa   {Participantes: 32, Ganador final: Italia}
+2024-07-19   Mundial   {Participantes: 256, Ganador final: Singapur}
+2024-07-19   Mundial   {Participantes: 256, Ganador final: Níger}
+2024-07-19   Juego del dinero   {Participantes: 512, Ganador final: 7100€}
+2024-07-19   Juego del dinero   {Participantes: 512, Ganador final: 1,65€}
+2024-07-19   Juego del dinero   {Participantes: 512, Ganador final: 9900€}
+2024-07-19   Sexo   {Participantes: 32, Ganador final: Estonia}
+2024-07-19   Torneillo   {Participantes: 8, Ganador final: Bot 2}
+2024-07-20   Mundial   {Participantes: 256, Ganador final: Cabo Verde}
+2024-07-20   Mundial   {Participantes: 256, Ganador final: Macedonia del Norte}
+2024-07-23   Eurocopa   {Participantes: 32, Ganador final: Suecia}
+2024-07-23   Mundial   {Participantes: 256, Ganador final: Suiza}
+2024-08-11   Eurocopa   {Participantes: 64, Ganador final: Chipre}
+2024-08-11   Mundial   {Participantes: 256, Ganador final: España}
+2024-08-12   Mundial   {Participantes: 256, Ganador final: Bulgaria}
+
