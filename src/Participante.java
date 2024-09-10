@@ -16,6 +16,7 @@ public class Participante {
     public void setNombre (String nombre){
         this.nombre = nombre;
     }
+    //sdsdfdssdf
 
 
     public int getIdentificador(){
