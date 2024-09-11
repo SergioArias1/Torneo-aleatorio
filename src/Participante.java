@@ -2,10 +2,6 @@ public class Participante {
 
     private String nombre;
 
-    private String gshjk;
-
-    private int otro = 4;
-
     private final int identificador;
 
     public Participante (String nombre, int identificador){
