@@ -68,9 +68,6 @@ public class Utilidades {
         }
         return res;
     }
-    //comentario
-
-
     public static int leerNumero(Scanner teclado, String mensaje, int minimo, int maximo) {
         int res = 0;
         boolean correcto = false;
