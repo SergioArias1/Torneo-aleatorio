@@ -2,6 +2,8 @@ public class Participante {
 
     private String nombre;
 
+    private String avgshjdk;
+
     private final int identificador;
 
     public Participante (String nombre, int identificador){
